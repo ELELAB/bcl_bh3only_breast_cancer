@@ -1,0 +1,6 @@
+command=RepairPDB
+pdb=5uul_wo_peptide_model0_checked.pdb
+
+temperature=298
+water=-CRYSTAL
+complexWithDNA=true
