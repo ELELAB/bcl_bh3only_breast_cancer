@@ -1,0 +1,11 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!5uul_wo_peptide.pdb
+!mutate_runfile_template.txt
+!mutation_list.txt
+!repair_runfile_template.txt
+!run_mutatex_OK.sh
+!figs
+!mutatex.py
