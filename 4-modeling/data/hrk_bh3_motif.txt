@@ -1,0 +1,7 @@
+>sp|O00198|HRK_HUMAN Activator of apoptosis harakiri OS=Homo sapiens GN=HRK PE=1 SV=1
+BH3 motif: AGRLGLRSSAAQ found at position 19-31
+Length of sequence: 91
+BH3 motif: LTAARLKALGDE found at position 31-43
+Length of sequence: 91
+BH3 motif: YWPWLCAAAQ found at position 67-77
+Length of sequence: 91
