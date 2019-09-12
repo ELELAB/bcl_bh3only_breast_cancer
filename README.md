@@ -3,7 +3,8 @@ Computational Biology Laboratory, Danish Cancer Society Research Center, Strandb
 Repository associated to the publication:
 
 Alterations of the pro-survival Bcl-2 protein interactome in breast cancer at the transcriptional, mutational and structural level. Simon Mathis Kønig, Vendela Rissler, Thilde Terkelsen, Matteo Lambrughi, Elena Papaleo*
-Biorxiv, doi:
+Biorxiv, doi:https://doi.org/10.1101/695379, under revision for PLOS COMP BIOL
+
 corresponding author: Elena Papaleo, elenap@cancer.dk
 
 The repository contains the input, scripts and major outputs to reproduce the results of our research.
@@ -30,6 +31,9 @@ TCGAbiolinks SummarizedExperiment  limma sva maf_tools
 OTHERS:
 
 Cytoscape, Modeller, Pyinteraph, Cabs_Flex 2.0
+
+WEBSERVERS:
+ICGC Data Portal, AlloSigMA
 
 NOTES:
 
