@@ -74,4 +74,4 @@ $ chmod +x find_bh3.py
 $ ./find_bh3.py output/candidate.genes.faa output/bh3.motif.candidate.genes.txt
 ```
 
-
+4. the network can be visualized with cytoscape and we report the .cys cytoscape file to navigate the analyses that we performed in the paper
