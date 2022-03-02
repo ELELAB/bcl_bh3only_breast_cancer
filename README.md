@@ -5,7 +5,7 @@ Repository associated to the publication:
 Alterations of the pro-survival Bcl-2 protein interactome in breast cancer at the transcriptional, mutational and structural level. Simon Mathis Kønig, Vendela Rissler, Thilde Terkelsen, Matteo Lambrughi, Elena Papaleo*
 PLoS Comput Biol. 2019 Dec 11;15(12):e1007485. doi: 10.1371/journal.pcbi.1007485
 
-corresponding author: Elena Papaleo, elenap@cancer.dk
+corresponding author: Elena Papaleo, elenap-at-cancer.dk
 
 The repository contains the input, scripts and major outputs to reproduce the results of our research.
 
